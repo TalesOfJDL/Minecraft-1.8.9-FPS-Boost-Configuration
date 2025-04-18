@@ -1,0 +1,137 @@
+advancedItemTooltips:false
+allowBlockAlternatives:false
+anaglyph3d:false
+ao:0
+bobView:true
+chatColors:true
+chatHeightFocused:0.34507042
+chatHeightUnfocused:0.34507042
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:0.45070422
+chatScale:0.80985916
+chatVisibility:0
+chatWidth:0.2746479
+difficulty:1
+enableVsync:false
+entityShadows:false
+fancyGraphics:false
+fboEnable:true
+forceUnicodeFont:false
+fov:0.25
+fullscreen:true
+gamma:1000.0
+guiScale:3
+heldItemTooltips:false
+hideServerAddress:false
+incompatibleResourcePacks:[]
+invertYMouse:false
+key_Add Friend:0
+key_Better Debug Screen:62
+key_Chat Peek:0
+key_Drop Stack Modifier:0
+key_Drop Stack:22
+key_Flip (Hold):0
+key_Flip (Toggle):0
+key_FpsReducer.key.guiOpen:13
+key_KeepSprint:29
+key_Name History:0
+key_Open Friends Gui:54
+key_Open GUI:12
+key_Rotate (Hold):0
+key_Rotate (Toggle):0
+key_Toggle Perspective:33
+key_gui.xaero_display_all_sets:0
+key_gui.xaero_enlarge_map:27
+key_gui.xaero_instant_waypoint:78
+key_gui.xaero_minimap_settings:21
+key_gui.xaero_new_waypoint:39
+key_gui.xaero_switch_waypoint_set:0
+key_gui.xaero_toggle_grid:0
+key_gui.xaero_toggle_map:26
+key_gui.xaero_toggle_slime:0
+key_gui.xaero_toggle_waypoints:0
+key_gui.xaero_waypoints_key:40
+key_gui.xaero_zoom_in:23
+key_gui.xaero_zoom_out:24
+key_key.attack:-100
+key_key.back:31
+key_key.chat:20
+key_key.command:53
+key_key.drop:16
+key_key.forward:17
+key_key.fullscreen:87
+key_key.hotbar.1:2
+key_key.hotbar.2:3
+key_key.hotbar.3:4
+key_key.hotbar.4:5
+key_key.hotbar.5:6
+key_key.hotbar.6:7
+key_key.hotbar.7:8
+key_key.hotbar.8:9
+key_key.hotbar.9:10
+key_key.inventory:18
+key_key.jump:57
+key_key.left:30
+key_key.pickItem:-98
+key_key.playerlist:15
+key_key.right:32
+key_key.screenshot:60
+key_key.smoothCamera:0
+key_key.sneak:42
+key_key.spectatorOutlines:0
+key_key.sprint:29
+key_key.streamCommercial:0
+key_key.streamPauseUnpause:65
+key_key.streamStartStop:64
+key_key.streamToggleMic:0
+key_key.togglePerspective:41
+key_key.use:-99
+key_of.key.zoom:46
+lang:en_us
+lastServer:0.0.0.0
+maxFps:260
+mipmapLevels:4
+modelPart_cape:true
+modelPart_hat:true
+modelPart_jacket:true
+modelPart_left_pants_leg:true
+modelPart_left_sleeve:true
+modelPart_right_pants_leg:true
+modelPart_right_sleeve:true
+mouseSensitivity:0.30985916
+overrideHeight:0
+overrideWidth:0
+particles:2
+pauseOnLostFocus:false
+realmsNotifications:true
+reducedDebugInfo:false
+renderClouds:false
+renderDistance:4
+resourcePacks:[]
+saturation:0.0
+showInventoryAchievementHint:false
+snooperEnabled:false
+soundCategory_ambient:0.0
+soundCategory_block:1.0
+soundCategory_hostile:1.0
+soundCategory_master:1.0
+soundCategory_music:0.0
+soundCategory_neutral:1.0
+soundCategory_player:1.0
+soundCategory_record:0.0
+soundCategory_weather:0.0
+streamBytesPerPixel:0.5
+streamChatEnabled:0
+streamChatUserFilter:0
+streamCompression:1
+streamFps:0.31690142
+streamKbps:0.5412844
+streamMicToggleBehavior:0
+streamMicVolume:1.0
+streamPreferredServer:
+streamSendMetadata:true
+streamSystemVolume:1.0
+touchscreen:false
+useNativeTransport:true
+useVbo:true
