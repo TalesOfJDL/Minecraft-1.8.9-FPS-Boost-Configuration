@@ -65,7 +65,7 @@ ofScreenshotSize:1
 ofCustomEntityModels:false
 ofCustomGuis:false
 ofShowGlErrors:false
-ofFullscreenMode:1280x720
+ofFullscreenMode:1920x1080
 ofFastMath:true
 ofFastRender:true
 ofTranslucentBlocks:1
