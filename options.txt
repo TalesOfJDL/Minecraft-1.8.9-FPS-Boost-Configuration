@@ -1,5 +1,5 @@
 advancedItemTooltips:false
-allowBlockAlternatives:true
+allowBlockAlternatives:false
 anaglyph3d:false
 ao:0
 bobView:true
@@ -10,9 +10,9 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:0.45070422
 chatScale:0.80985916
-chatVisibility:0
+chatVisibility:2
 chatWidth:0.2746479
-difficulty:0
+difficulty:3
 enableVsync:false
 entityShadows:false
 fancyGraphics:false
@@ -107,7 +107,7 @@ pauseOnLostFocus:false
 realmsNotifications:true
 reducedDebugInfo:false
 renderClouds:false
-renderDistance:4
+renderDistance:3
 resourcePacks:["Default Pack 16x v1.8.9.zip","No Block Break Particles v1.8.9.zip","No Enchant Glint v1.8.9.zip"]
 saturation:0.0
 showInventoryAchievementHint:false
