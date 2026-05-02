@@ -1,5 +1,5 @@
 advancedItemTooltips:false
-allowBlockAlternatives:false
+allowBlockAlternatives:true
 anaglyph3d:false
 ao:0
 bobView:true
@@ -10,10 +10,10 @@ chatLinks:true
 chatLinksPrompt:true
 chatOpacity:0.45070422
 chatScale:0.80985916
-chatVisibility:2
+chatVisibility:0
 chatWidth:0.2746479
-difficulty:3
-enableVsync:false
+difficulty:0
+enableVsync:true
 entityShadows:false
 fancyGraphics:false
 fboEnable:true
